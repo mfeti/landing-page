@@ -86,3 +86,32 @@ ul {
   width: 100%;
   max-width: 420px;
 }
+
+/* info section */
+
+.info-section {
+  padding: 20px 72px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  border: 3px solid #3882f6;
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+}
+
+.info-card p {
+  width: 150px;
+  text-align: center;
+}
