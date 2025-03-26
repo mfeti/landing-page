@@ -89,13 +89,26 @@ ul {
 
 /* info section */
 
-.info-section {
+.info-container {
   padding: 20px 72px;
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+}
+
+.info-container h2 {
+  font-size: 32px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.info-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .info-card {
@@ -114,4 +127,6 @@ ul {
 .info-card p {
   width: 150px;
   text-align: center;
+  color: #676869;
+  font-size: small;
 }
