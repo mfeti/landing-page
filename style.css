@@ -130,3 +130,27 @@ ul {
   color: #676869;
   font-size: small;
 }
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 40px 72px;
+}
+
+.quote-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 80%;
+  min-width: 420px;
+  font-style: italic;
+  font-size: 32px;
+  font-weight: lighter;
+  color: #1f2937;
+  margin: 0 auto;
+}
+
+.quote-author {
+  display: block;
+  text-align: end;
+  margin-right: 5px;
+  margin-top: 5px;
+  font-weight: 800;
+}
