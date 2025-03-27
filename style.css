@@ -92,6 +92,7 @@ ul {
 .info-container {
   padding: 20px 72px;
   display: flex;
+  flex-direction: column;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
