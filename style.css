@@ -188,3 +188,10 @@ ul {
   border: 2px solid;
   border-radius: 15px;
 }
+
+.footer {
+  background-color: #1f2937;
+  padding: 30px 72px 20px;
+  color: #f9faf8;
+  text-align: center;
+}
