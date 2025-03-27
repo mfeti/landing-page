@@ -154,3 +154,37 @@ ul {
   margin-top: 5px;
   font-weight: 800;
 }
+
+.call-section {
+  padding: 40px 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f9faf8;
+}
+
+.call-banner {
+  max-width: 620px;
+  background: #3882f6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.call-banner h3 {
+  margin-bottom: 2px;
+}
+
+.call-btn {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 7px 0;
+  text-wrap: nowrap;
+  flex: none;
+  width: 100px;
+  border: 2px solid;
+  border-radius: 15px;
+}
